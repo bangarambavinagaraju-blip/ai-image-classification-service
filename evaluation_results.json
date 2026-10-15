@@ -1,0 +1,9 @@
+{
+    "model": "MobileNetV2",
+    "dataset": "ImageNette validation subset",
+    "images_evaluated": 100,
+    "top_1_accuracy_percent": 83.0,
+    "macro_precision": 0.3846,
+    "macro_recall": 0.3187,
+    "macro_f1_score": 0.3476
+}
