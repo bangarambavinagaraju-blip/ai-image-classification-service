@@ -47,3 +47,10 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/bangarambavinagaraju-blip/ai-image-classification-service.git
+
+## How to Run the Application
+
+After installing the required dependencies, run the following command:
+
+```bash
+streamlit run app.py
